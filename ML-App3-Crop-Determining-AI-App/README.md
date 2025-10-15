@@ -1,9 +1,9 @@
 # Crop Recommender AI App 
 
+***An innovative AI-tool to recommend crop based on farm's attributes***
+
 ## Dataset Link
 [Please click here](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset)
-
-***An innovative AI-tool to recommend crop based on farm's attributes***
 
 ## Business Problem
 Precision agriculture is in trend nowadays. It helps the farmers to get informed decision about the farming strategy. Here, I present you a dataset which would allow the users to build a predictive model to recommend the most suitable crops to grow in a particular farm based on various parameters.
