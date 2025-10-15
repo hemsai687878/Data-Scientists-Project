@@ -1,5 +1,8 @@
 # Crop Recommender AI App 
 
+## Dataset Link
+[Please click here](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset)
+
 ***An innovative AI-tool to recommend crop based on farm's attributes***
 
 ## Business Problem
