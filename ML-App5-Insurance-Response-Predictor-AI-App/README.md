@@ -1,20 +1,6 @@
-# Vehicle Insurance Response Predictor AI App by ***Soorya Parthiban***
+# Vehicle Insurance Response Predictor AI 
 
 ***An innovative AI-tool to predict whether a customer would be interested in Vehicle Insurance.***
-
-## Table Of Contents
-* App Preview
-* Dataset Link
-* Business Problem
-* Machine Learning based Solution
-* Installation
-* Languages Used
-* Contact Me
-* License
-* Credits
-
-## App Preview
-![Cick Here](https://github.com/drdataSpp/ML-App5-Insurance-Response-Predictor-AI-App/blob/master/Vehicle%20Ins%20Response%20Predictor%20App.gif)
 
 ## Dataset Link
 [Please click here](https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction)
@@ -38,12 +24,6 @@
  
  * **Seventh Step:** Created a front-end app using **HTML and CSS** and integrated the pickle file with the app using the **flask framework**.
  
-## Installation
-The application is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository :-
-
-```
-pip install -r requirements.txt
-```
 ## Languages Used
 * [Python](https://www.python.org/)
   * [PyCharm](https://www.jetbrains.com/pycharm/)
@@ -52,15 +32,6 @@ pip install -r requirements.txt
 * HTML & CSS 
 
 * [Flask Web Framework](https://flask.palletsprojects.com/en/1.1.x/)
-
-## Contact Me
-* [Soorya's LinkedIn](https://www.linkedin.com/in/sooryaprakashparthiban/)
-* [Soorya's Twitter](https://twitter.com/Drdataspp)
-
-## License
-**Copyright 2021 Soorya Prakash Parthiban**
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 ## Credits
 Thanks to kaggle for providing this dataset.
